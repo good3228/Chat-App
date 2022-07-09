@@ -15,7 +15,6 @@
     "universal-cookie": "^4.0.4",
     "web-vitals": "^1.0.1"
   },
-  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
